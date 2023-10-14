@@ -7,7 +7,9 @@ Hello there 👋
 ---
 
 <h3>My technology stack:</h3>
+
 <img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="25" height="25"></img>
+
 ![](https://img.shields.io/badge/Database-MySQL,Postgresql,Hazelcast-blue)
 ![](https://img.shields.io/badge/CICD-Jenkins,Maven,Gradle,Docker-red)
 
