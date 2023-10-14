@@ -8,9 +8,9 @@ Hello there 👋
 
 <h3>My technology stack:</h3>
 <img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="25" height="25"></img>
-![](https://img.shields.io/badge/CI/CD-Jenkins,Maven,Gradle,Docker-red)
+![](https://img.shields.io/badge/CICD-Jenkins,Maven,Gradle,Docker-red)
 
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-mysql.svg" width="25" height="25"></img>
+<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/mysql.svg" width="25" height="25"></img>
 ![](https://img.shields.io/badge/Database-MySQL,Postgresql,Hazelcast-blue)
 
 <img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-spring-boot.svg" width="25" height="25"></img>
