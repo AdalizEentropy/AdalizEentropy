@@ -7,11 +7,12 @@ Hello there 👋
 <h4>My name is Svetlana, and I'm java developer from Moscow</h4>
 
 <h3>My technology stack:</h3>
-<div>
-<h5>Database:</h5>
+
+<h5>Database:
 <img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-mysql.svg" alt="mysql"></img>
 <img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-postgresql.svg" alt="postgresql"></img>
-</div>
+</h5>
+
 - MySQL
 - Postgresql
 - Hazelcast
