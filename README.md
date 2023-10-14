@@ -4,26 +4,18 @@ Hello there 👋
 
 ---
 
-<h4><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-java.svg" width="44" height="44" alt="java"></img> My name is Svetlana, and I'm java developer from Moscow</h4>
+<h4><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-java.svg" width="44" height="44"></img> My name is Svetlana, and I'm java developer from Moscow</h4>
 
 <h3>My technology stack:</h3>
 
-<h5>CI/CD:</h5>
-<div>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-docker.svg" alt="docker"></img>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" alt="jenkins"></img>
-</div>
+<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="44" height="44"></img> CI/CD:</h5>
 
 - Jenkins
 - Maven
 - Gradle
 - Docker
 
-<h5>Database:</h5>
-<div>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-mysql.svg" alt="mysql"></img>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-postgresql.svg" alt="postgresql"></img>
-</div>
+<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-mysql.svg" width="44" height="44"></img> Database:</h5>
 
 - MySQL
 - Postgresql
@@ -31,17 +23,12 @@ Hello there 👋
 
 _using JDBC, Spring Data JPA, Spring Data JDBC_
 
-<h5>Framework:</h5>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-spring-boot.svg" alt="spring-boot"></img>
+<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-spring-boot.svg" width="44" height="44"></img> Framework:</h5>
 
 - Spring
 - SpringBoot
 
-<h5>Integration system:</h5>
-<div>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/kafka.png" width="48" height="48" alt="kafka"></img>
-<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-prometheus.svg" alt="prometheus"></img>
-</div>
+<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-prometheus.svg" width="44" height="44"></img> Integration system:</h5>
 
 - Kafka
 - Prometheus
