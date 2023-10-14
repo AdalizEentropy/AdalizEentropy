@@ -8,7 +8,7 @@ Hello there 👋
 
 <h3>My technology stack:</h3>
 
-<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="44" height="44"></img> CI/CD:</h5>
+<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="40" height="40"></img> CI/CD:</h5>
 
 - Jenkins
 - Maven
