@@ -7,29 +7,15 @@ Hello there 👋
 ---
 
 <h3>My technology stack:</h3>
+<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="25" height="25"></img>
+![](https://img.shields.io/badge/CI/CD-Jenkins,Maven,Gradle,Docker-red)
 
-<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-jenkins.svg" width="25" height="25"></img> CI/CD:</h5>
+<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-mysql.svg" width="25" height="25"></img>
+![](https://img.shields.io/badge/Database-MySQL,Postgresql,Hazelcast-blue)
 
-- Jenkins
-- Maven
-- Gradle
-- Docker
+<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-spring-boot.svg" width="25" height="25"></img>
+![](https://img.shields.io/badge/Framework-Spring,SpringBoot-green)
 
-<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-spring-boot.svg" width="25" height="25"></img> Framework:</h5>
-
-- Spring
-- SpringBoot
-
-<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-prometheus.svg" width="25" height="25"></img> Integration system:</h5>
-
-- Kafka
-- Prometheus
-  
-<h5><img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-mysql.svg" width="30" height="30"></img> Database:</h5>
-
-- MySQL
-- Postgresql
-- Hazelcast
-
-_using JDBC, Spring Data JPA, Spring Data JDBC_
+<img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-prometheus.svg" width="25" height="25"></img>
+![](https://img.shields.io/badge/Integration-Kafka,Prometheus-orange)
 
