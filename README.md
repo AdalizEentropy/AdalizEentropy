@@ -21,4 +21,8 @@ Hello there 👋
 ![](https://img.shields.io/badge/Integration-Kafka,Prometheus-orange)
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdalizEentropy)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Statistics:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdalizEentropy&count_private=true&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdalizEentropy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
