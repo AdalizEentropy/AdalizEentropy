@@ -20,3 +20,5 @@ Hello there 👋
 <img src="https://github.com/AdalizEentropy/AdalizEentropy/blob/main/icons/icons8-prometheus.svg" width="25" height="25"></img>
 ![](https://img.shields.io/badge/Integration-Kafka,Prometheus-orange)
 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
